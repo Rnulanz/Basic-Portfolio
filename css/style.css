@@ -1,0 +1,94 @@
+
+body{
+    background: grey;
+    margin-top: 50px;
+}
+
+.header {
+    background: teal;
+    margin-left: 50px;
+    width: 90%;
+    clear: both;
+}
+
+
+#name{background-color: aqua;
+font-family: 'Pacifico';
+padding: 20px;
+text-align: center;
+width: 20%; 
+}
+
+.link{
+    float: right;
+}
+h2{text-align: center;
+    font-size: 30px;
+
+}
+#back-me{
+    background: wheat;
+    width:90%;  
+    margin-left: 50px;
+    font-family: 'Shadows Into Light';
+    height: 150%;
+    padding: 0% 0% 10% 0%;
+    font-size: larger
+  
+}
+
+img{
+    float: left;
+    position: absolute;
+
+}
+
+p{margin-left: 5px;}
+
+.clearfix{
+    clear: both;
+}
+
+label{font-family: 'Pacifico'
+}
+
+input#text {
+    width: 100%;
+    padding:10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    box-sizing: border-box;
+  }
+  
+  input#submit {
+    width: 95%;
+    background-color: blue;
+    color: white;
+    font-family: 'Pacifico';
+    padding: 14px 20px;
+    margin: 10px ;
+    text-align: center;
+    border: solid;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  
+  input#submit:hover {
+    background-color: fuchsia;
+  }
+
+  input#type{
+      width:100%;
+      margin:5px;
+      padding: 50px;
+      border-radius: 50px;
+      box-sizing: border-box;
+  }
+  
+  .contact {
+    border-radius: 5px;
+    background-color: white;
+    padding: 20px;
+    height: 100%;
+  }
