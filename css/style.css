@@ -49,8 +49,10 @@ img#softball{
     height: 253px;
 }
 
-p#me{
-    margin-left: 10%;}
+p#me, p#sport{padding-left: 70px;
+    margin-left: 10%;
+text-indent: 50px;}
+
 
 .list{
     margin-left: 20%;
