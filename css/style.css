@@ -39,11 +39,23 @@ h2{text-align: center;
 
 img{
     float: left;
-    position: absolute;
+    height: 200px;
 
 }
 
-p{margin-left: 5px;}
+img#softball{
+    float: left;
+    box-sizing: border-box;
+    height: 253px;
+}
+
+p#me{
+    margin-left: 10%;}
+
+.list{
+    margin-left: 20%;
+
+}
 
 .clearfix{
     clear: both;
