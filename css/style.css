@@ -62,6 +62,10 @@ img#softball{
     width: 0 auto;
 }
 
+img.home{ float: right;
+    width:0 auto;
+}
+
 p#me, p#sport{
 text-indent: 50px;}
 
