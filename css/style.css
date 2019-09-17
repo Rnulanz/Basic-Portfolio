@@ -124,18 +124,14 @@ input#text {
     height: 100%;
   }
 
-  #UNLV{
-      position: absolute;
-      bottom: 40px;
+  footer{
+      clear: both;
+     text-align: center;
   }
-
-  #family{
-      margin: 40px, 0px, 30px, 20px;
-      height: 100px;
-  }
-#Hawaii{
-    clear: both;
+.pro{
+    float: left;
+    margin: 120px 120px;
     height: 200px;
-    width: 100px;
-    margin-right: 50%;
+    width: 200px;
+
 }
